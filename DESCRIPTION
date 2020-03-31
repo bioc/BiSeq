@@ -1,7 +1,7 @@
 Package: BiSeq
 Type: Package
 Title: Processing and analyzing bisulfite sequencing data
-Version: 1.27.2
+Version: 1.27.3
 Date: 2020-03-27
 Author: Katja Hebestreit, Hans-Ulrich Klein
 Maintainer: Katja Hebestreit <katja.hebestreit@gmail.com>
@@ -18,4 +18,3 @@ Description: The BiSeq package provides useful classes and functions to
         data from one or multiple samples.
 License: LGPL-3
 biocViews: Genetics, Sequencing, MethylSeq, DNAMethylation
-PackageStatus: Deprecated
